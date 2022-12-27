@@ -1,0 +1,351 @@
+[ 2022-01-11T00:02:01+08:00 ] 100.122.16.213 /jisuan/auto_zhixing
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000085s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000106s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000131s ]
+SQL: SELECT * FROM `hx_config`  [ RunTime:0.0020s ]
+
+[ 2022-01-11T00:04:01+08:00 ] 100.122.16.251 /jisuan/auto_zhixing
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000090s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000099s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000119s ]
+SQL: SELECT * FROM `hx_config`  [ RunTime:0.0028s ]
+
+[ 2022-01-11T00:07:02+08:00 ] 100.122.16.140 /jisuan/auto_zhixing
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000093s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000100s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000121s ]
+SQL: SELECT * FROM `hx_config`  [ RunTime:0.0026s ]
+
+[ 2022-01-11T00:08:01+08:00 ] 100.122.16.209 /jisuan/auto_zhixing
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000090s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000103s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000123s ]
+SQL: SELECT * FROM `hx_config`  [ RunTime:0.0025s ]
+
+[ 2022-01-11T00:12:01+08:00 ] 100.122.16.246 /jisuan/auto_zhixing
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000086s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000098s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000118s ]
+SQL: SELECT * FROM `hx_config`  [ RunTime:0.0025s ]
+
+[ 2022-01-11T00:13:01+08:00 ] 100.122.16.228 /jisuan/auto_zhixing
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000096s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000100s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000127s ]
+SQL: SELECT * FROM `hx_config`  [ RunTime:0.0027s ]
+
+[ 2022-01-11T00:14:02+08:00 ] 100.122.16.209 /jisuan/auto_zhixing
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000089s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000104s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000124s ]
+SQL: SELECT * FROM `hx_config`  [ RunTime:0.0021s ]
+
+[ 2022-01-11T00:15:01+08:00 ] 100.122.16.240 /jisuan/auto_zhixing
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000116s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000098s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000120s ]
+SQL: SELECT * FROM `hx_config`  [ RunTime:0.0020s ]
+
+[ 2022-01-11T00:18:03+08:00 ] 100.122.16.149 /jisuan/auto_zhixing
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000091s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000104s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000124s ]
+SQL: SELECT * FROM `hx_config`  [ RunTime:0.0023s ]
+
+[ 2022-01-11T00:22:01+08:00 ] 100.122.16.143 /jisuan/auto_zhixing
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000087s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000127s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000148s ]
+SQL: SELECT * FROM `hx_config`  [ RunTime:0.0029s ]
+
+[ 2022-01-11T00:24:01+08:00 ] 100.122.16.252 /jisuan/auto_zhixing
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000093s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000109s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000131s ]
+SQL: SELECT * FROM `hx_config`  [ RunTime:0.0027s ]
+
+[ 2022-01-11T00:25:02+08:00 ] 100.122.16.239 /jisuan/auto_zhixing
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000087s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000097s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000117s ]
+SQL: SELECT * FROM `hx_config`  [ RunTime:0.0020s ]
+
+[ 2022-01-11T00:27:01+08:00 ] 100.122.16.246 /jisuan/auto_zhixing
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000099s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000100s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000123s ]
+SQL: SELECT * FROM `hx_config`  [ RunTime:0.0024s ]
+
+[ 2022-01-11T00:28:02+08:00 ] 100.122.16.230 /jisuan/auto_zhixing
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000091s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000106s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000133s ]
+SQL: SELECT * FROM `hx_config`  [ RunTime:0.0028s ]
+
+[ 2022-01-11T00:30:02+08:00 ] 100.122.16.246 /jisuan/auto_zhixing
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000084s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000096s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000116s ]
+SQL: SELECT * FROM `hx_config`  [ RunTime:0.0024s ]
+
+[ 2022-01-11T00:32:01+08:00 ] 100.122.16.208 /jisuan/auto_zhixing
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000109s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000170s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000205s ]
+SQL: SELECT * FROM `hx_config`  [ RunTime:0.0024s ]
+
+[ 2022-01-11T00:33:01+08:00 ] 100.122.16.255 /jisuan/auto_zhixing
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000102s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000101s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000122s ]
+SQL: SELECT * FROM `hx_config`  [ RunTime:0.0021s ]
+
+[ 2022-01-11T00:35:02+08:00 ] 100.122.16.239 /jisuan/auto_zhixing
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000085s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000106s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000129s ]
+SQL: SELECT * FROM `hx_config`  [ RunTime:0.0026s ]
+
+[ 2022-01-11T00:36:01+08:00 ] 100.122.16.226 /jisuan/auto_zhixing
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000089s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000098s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000118s ]
+SQL: SELECT * FROM `hx_config`  [ RunTime:0.0023s ]
+
+[ 2022-01-11T00:38:01+08:00 ] 100.122.16.192 /jisuan/auto_zhixing
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000091s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000100s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000122s ]
+SQL: SELECT * FROM `hx_config`  [ RunTime:0.0020s ]
+
+[ 2022-01-11T00:40:01+08:00 ] 100.122.16.148 /jisuan/auto_zhixing
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000088s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000099s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000121s ]
+SQL: SELECT * FROM `hx_config`  [ RunTime:0.0024s ]
+
+[ 2022-01-11T00:42:01+08:00 ] 100.122.16.209 /jisuan/auto_zhixing
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000087s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000096s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000114s ]
+SQL: SELECT * FROM `hx_config`  [ RunTime:0.0028s ]
+
+[ 2022-01-11T00:43:01+08:00 ] 100.122.16.250 /jisuan/auto_zhixing
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000116s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000113s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000133s ]
+SQL: SELECT * FROM `hx_config`  [ RunTime:0.0029s ]
+
+[ 2022-01-11T00:44:02+08:00 ] 100.122.16.197 /jisuan/auto_zhixing
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000085s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000096s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000116s ]
+SQL: SELECT * FROM `hx_config`  [ RunTime:0.0024s ]
+
+[ 2022-01-11T00:49:01+08:00 ] 100.122.16.141 /jisuan/auto_zhixing
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000082s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000094s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000114s ]
+SQL: SELECT * FROM `hx_config`  [ RunTime:0.0024s ]
+
+[ 2022-01-11T00:50:01+08:00 ] 100.122.16.214 /jisuan/auto_zhixing
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000090s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000162s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000200s ]
+SQL: SELECT * FROM `hx_config`  [ RunTime:0.0022s ]
+
+[ 2022-01-11T00:51:01+08:00 ] 100.122.16.228 /jisuan/auto_zhixing
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000083s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000101s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000124s ]
+SQL: SELECT * FROM `hx_config`  [ RunTime:0.0027s ]
+
+[ 2022-01-11T00:54:02+08:00 ] 100.122.16.141 /jisuan/auto_zhixing
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000145s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000142s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000176s ]
+SQL: SELECT * FROM `hx_config`  [ RunTime:0.0020s ]
+
+[ 2022-01-11T00:55:01+08:00 ] 100.122.16.233 /jisuan/auto_zhixing
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000124s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000108s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000133s ]
+SQL: SELECT * FROM `hx_config`  [ RunTime:0.0022s ]
+
+[ 2022-01-11T00:58:01+08:00 ] 100.122.16.243 /jisuan/auto_zhixing
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000129s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000147s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000179s ]
+SQL: SELECT * FROM `hx_config`  [ RunTime:0.0024s ]
+
+[ 2022-01-11T00:59:01+08:00 ] 100.122.16.244 /jisuan/auto_zhixing
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000099s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000120s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000145s ]
+SQL: SELECT * FROM `hx_config`  [ RunTime:0.0025s ]
+
+[ 2022-01-11T01:00:01+08:00 ] 100.122.16.146 /jisuan/auto_zhixing
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000089s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000099s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000119s ]
+SQL: SELECT * FROM `hx_config`  [ RunTime:0.0028s ]
+SQL: SELECT * FROM `hx_jingjia` WHERE ( status=1 AND (start_time+jp_time*60)<1641834001 )  [ RunTime:0.0026s ]
+SQL: SELECT * FROM `hx_jingjia_order` WHERE ( done_status=3 AND status=1 AND jingpai_end_time<1641826801 )  [ RunTime:0.0025s ]
+NOTIC: [8] Undefined variable: zao_pp_list /www/wwwroot/龙场宝典-接口/App/Home/Controller/JisuanController.class.php 第 129 行.
+NOTIC: [8] Undefined variable: wu_pp_list /www/wwwroot/龙场宝典-接口/App/Home/Controller/JisuanController.class.php 第 129 行.
+NOTIC: [8] Undefined variable: ye_pp_list /www/wwwroot/龙场宝典-接口/App/Home/Controller/JisuanController.class.php 第 129 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `hx_pai_tongji` WHERE ( type=1 AND add_time>1641830400 ) LIMIT 1   [ RunTime:0.0025s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `hx_pai_tongji` WHERE ( type=2 AND add_time>1641830400 ) LIMIT 1   [ RunTime:0.0025s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `hx_pai_tongji` WHERE ( type=3 AND add_time>1641830400 ) LIMIT 1   [ RunTime:0.0025s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `hx_pai` WHERE ( status=1 AND type=11 AND is_dai=0 ) LIMIT 1   [ RunTime:0.0025s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `hx_pai` WHERE ( status=1 AND type=12 AND is_dai=0 ) LIMIT 1   [ RunTime:0.0025s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `hx_pai` WHERE ( status=1 AND type=13 AND is_dai=0 ) LIMIT 1   [ RunTime:0.0025s ]
+SQL: SELECT * FROM `hx_pai_order` WHERE ( status=2 AND ping_time<1641830401 )  [ RunTime:0.0025s ]
+SQL: SELECT * FROM `hx_pai_order` WHERE ( status=1 AND source=2 AND pp_time<=1641830401 )  [ RunTime:0.0026s ]
+SQL: SELECT * FROM `hx_shenqing` WHERE ( youxiao = 1 AND status=2 AND trade_id=0 AND dongjie>0 AND handle_time<1641747601 )  [ RunTime:0.0025s ]
+SQL: SELECT * FROM `hx_member` WHERE ( vip_flag=1 AND vip_end_time<=1641834001 )  [ RunTime:0.0026s ]
+
+[ 2022-01-11T01:01:01+08:00 ] 100.122.16.248 /jisuan/auto_zhixing
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000085s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000096s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000115s ]
+SQL: SELECT * FROM `hx_config`  [ RunTime:0.0025s ]
+SQL: SELECT * FROM `hx_jingjia` WHERE ( status=1 AND (start_time+jp_time*60)<1641834061 )  [ RunTime:0.0022s ]
+SQL: SELECT * FROM `hx_jingjia_order` WHERE ( done_status=3 AND status=1 AND jingpai_end_time<1641826861 )  [ RunTime:0.0022s ]
+NOTIC: [8] Undefined variable: zao_pp_list /www/wwwroot/龙场宝典-接口/App/Home/Controller/JisuanController.class.php 第 129 行.
+NOTIC: [8] Undefined variable: wu_pp_list /www/wwwroot/龙场宝典-接口/App/Home/Controller/JisuanController.class.php 第 129 行.
+NOTIC: [8] Undefined variable: ye_pp_list /www/wwwroot/龙场宝典-接口/App/Home/Controller/JisuanController.class.php 第 129 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `hx_pai_tongji` WHERE ( type=1 AND add_time>1641830400 ) LIMIT 1   [ RunTime:0.0022s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `hx_pai_tongji` WHERE ( type=2 AND add_time>1641830400 ) LIMIT 1   [ RunTime:0.0021s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `hx_pai_tongji` WHERE ( type=3 AND add_time>1641830400 ) LIMIT 1   [ RunTime:0.0021s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `hx_pai` WHERE ( status=1 AND type=11 AND is_dai=0 ) LIMIT 1   [ RunTime:0.0021s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `hx_pai` WHERE ( status=1 AND type=12 AND is_dai=0 ) LIMIT 1   [ RunTime:0.0022s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `hx_pai` WHERE ( status=1 AND type=13 AND is_dai=0 ) LIMIT 1   [ RunTime:0.0022s ]
+SQL: SELECT * FROM `hx_pai_order` WHERE ( status=2 AND ping_time<1641830461 )  [ RunTime:0.0022s ]
+SQL: SELECT * FROM `hx_pai_order` WHERE ( status=1 AND source=2 AND pp_time<=1641830461 )  [ RunTime:0.0021s ]
+SQL: SELECT * FROM `hx_shenqing` WHERE ( youxiao = 1 AND status=2 AND trade_id=0 AND dongjie>0 AND handle_time<1641747661 )  [ RunTime:0.0021s ]
+SQL: SELECT * FROM `hx_member` WHERE ( vip_flag=1 AND vip_end_time<=1641834061 )  [ RunTime:0.0022s ]
+
+[ 2022-01-11T01:02:01+08:00 ] 100.122.16.137 /jisuan/auto_zhixing
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000091s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000099s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000121s ]
+SQL: SELECT * FROM `hx_config`  [ RunTime:0.0025s ]
+SQL: SELECT * FROM `hx_jingjia` WHERE ( status=1 AND (start_time+jp_time*60)<1641834121 )  [ RunTime:0.0022s ]
+SQL: SELECT * FROM `hx_jingjia_order` WHERE ( done_status=3 AND status=1 AND jingpai_end_time<1641826921 )  [ RunTime:0.0021s ]
+NOTIC: [8] Undefined variable: zao_pp_list /www/wwwroot/龙场宝典-接口/App/Home/Controller/JisuanController.class.php 第 129 行.
+NOTIC: [8] Undefined variable: wu_pp_list /www/wwwroot/龙场宝典-接口/App/Home/Controller/JisuanController.class.php 第 129 行.
+NOTIC: [8] Undefined variable: ye_pp_list /www/wwwroot/龙场宝典-接口/App/Home/Controller/JisuanController.class.php 第 129 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `hx_pai_tongji` WHERE ( type=1 AND add_time>1641830400 ) LIMIT 1   [ RunTime:0.0021s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `hx_pai_tongji` WHERE ( type=2 AND add_time>1641830400 ) LIMIT 1   [ RunTime:0.0021s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `hx_pai_tongji` WHERE ( type=3 AND add_time>1641830400 ) LIMIT 1   [ RunTime:0.0021s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `hx_pai` WHERE ( status=1 AND type=11 AND is_dai=0 ) LIMIT 1   [ RunTime:0.0021s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `hx_pai` WHERE ( status=1 AND type=12 AND is_dai=0 ) LIMIT 1   [ RunTime:0.0022s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `hx_pai` WHERE ( status=1 AND type=13 AND is_dai=0 ) LIMIT 1   [ RunTime:0.0021s ]
+SQL: SELECT * FROM `hx_pai_order` WHERE ( status=2 AND ping_time<1641830521 )  [ RunTime:0.0021s ]
+SQL: SELECT * FROM `hx_pai_order` WHERE ( status=1 AND source=2 AND pp_time<=1641830521 )  [ RunTime:0.0021s ]
+SQL: SELECT * FROM `hx_shenqing` WHERE ( youxiao = 1 AND status=2 AND trade_id=0 AND dongjie>0 AND handle_time<1641747721 )  [ RunTime:0.0021s ]
+SQL: SELECT * FROM `hx_member` WHERE ( vip_flag=1 AND vip_end_time<=1641834121 )  [ RunTime:0.0022s ]
+

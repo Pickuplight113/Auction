@@ -1,0 +1,1 @@
+a:9:{i:0;s:2:"id";i:1;s:4:"type";i:2;s:3:"day";i:3;s:7:"is_show";i:4;s:7:"yj_rate";i:5;s:7:"fw_rate";i:6;s:7:"sy_rate";s:3:"_pk";s:2:"id";s:5:"_type";a:7:{s:2:"id";s:7:"int(11)";s:4:"type";s:10:"tinyint(4)";s:3:"day";s:10:"tinyint(4)";s:7:"is_show";s:10:"tinyint(4)";s:7:"yj_rate";s:12:"double(10,2)";s:7:"fw_rate";s:12:"double(10,2)";s:7:"sy_rate";s:12:"double(10,2)";}}
